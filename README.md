@@ -1,4 +1,4 @@
-**Sistema de Gerenciamento de Candidaturas e Processos Seletivos**
+## Sistema de Gerenciamento de Candidaturas e Processos Seletivos
 
 Aplicação desenvolvida em Java com o objetivo de simplificar e organizar o gerenciamento de candidaturas a vagas de emprego.
 
