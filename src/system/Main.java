@@ -132,7 +132,7 @@ public static int lerInteiro(){
 public static void listarCandidaturas(){
     System.out.println("\n-------- Minhas Candidaturas ------");
     if(candidaturas.isEmpty()){
-        System.out.println("Nenhuma candidatura encontrada.");
+        System.out.println("\nNenhuma candidatura encontrada.");
         return;
     }
 
