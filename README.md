@@ -29,9 +29,6 @@ O projeto foi desenvolvido como parte da disciplina de **Programação Orientada
 - **Java Collections Framework:** utilização de `ArrayList` para armazenamento e gerenciamento de dados em memória.
 - **Programação Orientada a Objetos:** estruturação do sistema utilizando classes, objetos e relacionamentos entre entidades.
 - **Terminal / Console:** interface textual para interação com o usuário.
-- **HTML5:** estruturação das páginas, seções e formulários.
-- **CSS3:** estilização, identidade visual, cores, animações e responsividade.
-- **JavaScript:** implementação das funcionalidades e interatividade.
 
 ---
 
